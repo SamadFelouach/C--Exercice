@@ -1,0 +1,9 @@
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\bin\Debug\p.exe.config
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\bin\Debug\p.exe
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\bin\Debug\p.pdb
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\obj\Debug\p.Form1.resources
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\obj\Debug\p.Properties.Resources.resources
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\obj\Debug\p.exe
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\obj\Debug\p.pdb
+C:\Users\Avicii\Desktop\GI2\Gl cour\C#\tps\p\obj\Debug\p.csprojAssemblyReference.cache
